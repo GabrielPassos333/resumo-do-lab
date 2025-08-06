@@ -19,7 +19,7 @@ Este laboratório tem como objetivo consolidar seus conhecimentos em máquinas v
 
 ### ✅ Pré-requisitos
 
-- Uma **assinatura do Azure ativa**. Se você não tiver uma, pode criar uma **[Conta Gratuita do Azure](https://azure.microsoft.com/pt-br/free/)** que oferece créditos para começar.
+- Uma **assinatura do Azure ativa**. Se você não tiver uma, pode criar uma que oferece créditos para começar.
 
 ---
 
@@ -32,7 +32,6 @@ Acesse o **[Portal do Azure](https://portal.azure.com)** e faça login com sua c
 1. Na barra de busca do portal, digite **`máquinas virtuais`** e selecione o serviço correspondente.
 2. Na página de Máquinas Virtuais, clique em **`+ Criar`** e selecione **`Máquina virtual do Azure`**.
 
-![Criar VM](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/media/quick-create-portal/create-virtual-machine.png)
 
 ### 3. Configuração da Aba "Básico"
 Esta é a etapa mais importante. Preencha os seguintes campos:
